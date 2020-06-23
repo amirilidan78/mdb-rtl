@@ -5,7 +5,8 @@ demo version of mdb(material designe bootstrap) libarary im using , trying to co
 
 <div>
   <hr>
+  <h2> inputs </h2>
   <img src='videos/input.gif' alt='rtl input' >
-  inputs
+  
 </div>
 
